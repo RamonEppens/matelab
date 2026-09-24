@@ -1,0 +1,6 @@
+# Fuerza finales de línea LF para que Prettier no falle en Windows
+* text=auto eol=lf
+*.ico binary
+*.png binary
+*.jpg binary
+*.webp binary
